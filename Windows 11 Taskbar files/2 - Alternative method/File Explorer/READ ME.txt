@@ -1,0 +1,4 @@
+if the icon looks like a paper
+then right click on the shortcut and click on properties 
+after that click on change icon and then browse 
+and after that chooose the icon from the folder
